@@ -1,0 +1,9 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: lightseagreen;
+}
+label{
+    display: block;
+    margin-bottom: 15px;
+}
